@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">SG_MP_MOTION_TUGAS1</string>
+    <!--BELAJAR-->
+    <string name="belajar_mobile_programming">Belajar Mobile Programming</string>
+
+    <!--TANGGAL-->
+    <string name="pada_tanggal">Pada Tanggal</string>
+    <string name="_22_03_2019_18_45">22/03/2019 18:45</string>
+
+    <!--PERSENTASE-->
+    <string name="persentase_yang_diambil">Persentase yang diambil</string>
+    <string name="slot">Slot</string>
+
+    <string name="_5_bulan">5% / Bulan</string>
+    <string name="_8_orang">8 Orang</string>
+
+    <!--ISI TEXT-->
+    <string name="lorem_ipsum_dolor_sit_amet_consectetur_adipiscing_elit">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</string>
+
+    <!--MENTOR-->
+    <string name="mentor">Mentor</string>
+    <string name="alanu_dinasti_permana">Alanu Dinasti Permana</string>
+    <string name="mau_mengeksplore_tentang_android_development">Mau mengeksplore tentang android development</string>
+
+    <!--TUJUAN-->
+    <string name="tujuan">Tujuan</string>
+    <string name="_1">1</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_4">4</string>
+
+    <!--SYARAT-->
+    <string name="syarat">Syarat</string>
+    <string name="s1_teknik_informatika">S1 Teknik Informatika</string>
+    <string name="niat_untuk_belajar_android_development">Niat untuk belajar android development</string>
+    <string name="mahasiswa_teknik_informatika">Mahasiswa Teknik Informatika</string>
+
+    <!--REVIEW-->
+    <string name="review">Review</string>
+    <string name="lihat_semua">Lihat Semua</string>
+    <string name="_3_0">3.0</string>
+
+    <string name="todo">TODO</string>
+
+    <!--BUTTON-->
+    <string name="ikut_kelas">Ikut Kelas</string>
+</resources>
